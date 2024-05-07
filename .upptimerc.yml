@@ -7,6 +7,8 @@ sites:
     url: https://clye.app
   - name: Bot
     url: https://bot.clye.app
+  - name: LegalBFF
+    url: https://legalbff.de
 
 status-website:
   # baseUrl: /your-repo-name
