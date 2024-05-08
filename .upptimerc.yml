@@ -3,7 +3,7 @@ owner: clye-app # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Homepage
+  - name: Clye.app
     url: https://clye.app
   - name: Bot
     url: https://bot.clye.app
