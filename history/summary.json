@@ -4,9 +4,9 @@
     "url": "https://clye.app",
     "icon": "https://icons.duckduckgo.com/ip3/clye.app.ico",
     "slug": "clye-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1275,
     "timeYear": 1232,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-07-12": 21
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.clye.app.ico",
     "slug": "bot",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.59%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.59%",
     "time": 676,
     "timeDay": 438,
     "timeWeek": 585,
     "timeMonth": 660,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-11-05": 0,
+      "2024-11-05": 18,
       "2024-07-12": 21,
       "2024-07-08": 244,
       "2024-05-13": 443,
@@ -49,7 +50,7 @@
     "url": "https://legalbff.de",
     "icon": "https://icons.duckduckgo.com/ip3/legalbff.de.ico",
     "slug": "legal-bff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +62,7 @@
     "timeMonth": 886,
     "timeYear": 925,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-07-12": 20,
       "2024-05-07": 16
     }
