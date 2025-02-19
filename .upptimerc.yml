@@ -9,6 +9,8 @@ sites:
     url: https://bot.clye.app
   - name: LegalBFF
     url: https://legalbff.de
+  - name: AI-Hub Kaiser
+    url: https://ai-hub.kaiser.bluetomato.tech
 
 status-website:
   baseUrl: /uptime
