@@ -11,8 +11,6 @@ sites:
     url: https://legalbff.de
   - name: AI-Hub Kaiser
     url: https://ai-hub.kaiser.bluetomato.tech
-  - name: Down test
-    url: https://down.clye.app
 
 status-website:
   baseUrl: /uptime
