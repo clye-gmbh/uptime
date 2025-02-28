@@ -72,9 +72,9 @@
     "url": "https://ai-hub.kaiser.bluetomato.tech",
     "icon": "https://icons.duckduckgo.com/ip3/ai-hub.kaiser.bluetomato.tech.ico",
     "slug": "ai-hub-kaiser",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,6 +83,8 @@
     "timeWeek": 1042,
     "timeMonth": 1059,
     "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   }
 ]
