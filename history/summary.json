@@ -4,9 +4,9 @@
     "url": "https://clye.app",
     "icon": "https://icons.duckduckgo.com/ip3/clye.app.ico",
     "slug": "clye-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1186,
     "timeYear": 1230,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2024-12-17": 35,
       "2024-11-05": 21,
       "2024-07-12": 21
@@ -26,9 +27,9 @@
     "url": "https://bot.clye.app",
     "icon": "https://icons.duckduckgo.com/ip3/bot.clye.app.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -38,6 +39,7 @@
     "timeMonth": 816,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2024-11-05": 39,
       "2024-07-12": 21,
       "2024-07-08": 244,
@@ -51,9 +53,9 @@
     "url": "https://legalbff.de",
     "icon": "https://icons.duckduckgo.com/ip3/legalbff.de.ico",
     "slug": "legal-bff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -63,6 +65,7 @@
     "timeMonth": 852,
     "timeYear": 902,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2024-07-12": 20,
       "2024-05-07": 16
     }
@@ -72,18 +75,19 @@
     "url": "https://ai-hub.kaiser.bluetomato.tech",
     "icon": "https://icons.duckduckgo.com/ip3/ai-hub.kaiser.bluetomato.tech.ico",
     "slug": "ai-hub-kaiser",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 1592,
     "timeDay": 650,
     "timeWeek": 1011,
     "timeMonth": 1665,
     "timeYear": 1592,
     "dailyMinutesDown": {
+      "2025-04-01": 0,
       "2025-03-02": 91,
       "2025-02-28": 47
     }
