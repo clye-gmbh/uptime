@@ -7,8 +7,10 @@ sites:
     url: https://clye.app
   - name: Bot
     url: https://bot.clye.app
-  - name: LegalBFF
-    url: https://legalbff.de
+  - name: Homepage
+    url: https://clye-gmbh.de
+  - name: AI-Hub
+    url: https://ai.clye-gmbh.de
   - name: AI-Hub Kaiser
     url: https://ai-hub.kaiser.bluetomato.tech
 
