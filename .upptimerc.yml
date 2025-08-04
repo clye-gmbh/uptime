@@ -13,6 +13,8 @@ sites:
     url: https://ai.clye-gmbh.de
   - name: AI-Hub Kaiser
     url: https://ai-hub.kaiser.bluetomato.tech
+  - name: Realite
+    url: https://realite.app
 
 status-website:
   baseUrl: /uptime
