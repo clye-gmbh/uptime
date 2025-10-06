@@ -1,7 +1,7 @@
 url: https://ai.kaiser-fashion.de
-status: up
-code: 200
-responseTime: 1519
-lastUpdated: 2025-10-05T23:03:11.489Z
+status: down
+code: 503
+responseTime: 451
+lastUpdated: 2025-10-06T08:44:19.910Z
 startTime: 2025-02-19T10:58:34.898Z
 generator: Upptime <https://github.com/upptime/upptime>
